@@ -1,0 +1,251 @@
+*{
+    padding:0px;
+    margin:0px;
+    background-color:#3C3C3C;
+    color:white;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+body{
+    background-image: linear-gradient(to bottom, #3C3C3C 0px, #3C3C3C 764px, #cccbcb 764px,
+     #cccbcb 1528px,#F34043 1528px,#F34043 2200px);
+}
+.restnav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:600px; 
+    
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:32px 150px 0px 150px;
+    align-items: flex-end;
+}
+.logo{
+    font-size:50px;
+    display: flex;
+    justify-content:center;
+    align-items: flex-end;
+    position:relative;
+    top:8px;
+}
+.hello{
+    font-size: 22px;
+    padding:20px 0px 10px 150px;
+    position:relative;
+    top:60px;
+}
+.sundaram{
+    font-size: 100px;
+    color:#F34043;
+    padding-left:150px;
+    position:relative;
+    top:50px;
+}
+.web{
+    padding-left:150px;
+    font-size:30px;
+    position: relative;
+    top:85px;
+    width:55px;
+    z-index: 1;
+}
+.developer{
+    padding-left:220px;
+    font-size:45px;
+    position:relative;
+    top:37px;
+}
+.say{
+    position:relative;
+    top:70px;
+    left:150px;
+    background-color:#F34043;
+    height:50px;
+    width:170px;
+    border-radius: 8px;
+}
+.mail{
+    text-decoration: none;
+    background-color: #F34043;
+}
+.aboutme{
+    width:75px;
+    position:relative;
+    top:36px;
+    left:350px;
+}
+.fbinst{
+    padding:10px 10px 10px 10px;
+    position:relative;
+    top: -140px;
+    left:35px;
+    z-index: 1;
+}
+.redhover{
+    text-decoration: none;
+}
+.redhover:hover{
+    color:#F34043;
+}
+.gmailwritten{
+    padding-left: 150px;
+    position:relative;
+    top:150px;
+}
+.mypic{
+    position:relative;
+    top:-378px;
+    left:900px;
+    height:600px;
+    width:400px;
+    /* aspect-ratio: 1/1; */
+    z-index: 1;
+}
+.squarebox{
+    height:120px;
+    width:120px;
+    background-color: #F34043;
+    position:relative;
+    top:-630px;
+    left:950px;
+    z-index: 2;
+}
+.squarebox2{
+    height:80px;
+    width:55px;
+    background-color: #F34043;
+    position:relative;
+    top:-1000px;
+    left:950px;
+    z-index: 2;
+}
+.squarebox3{
+    height:360px;
+    width:255px;
+    background-color: #F34043;
+    position:relative;
+    top:-1100px;
+    left:1100px;
+}
+.page2aboutme{
+    color: #F34043;
+    font-size: 20px;
+    left:600px;
+    width:100px;
+    background-color: #cccbcb;
+    position:absolute;
+    top:950px;
+}
+.sandy{
+    background-color: #cccbcb;
+    color:black;
+    left: 600px;
+    font-size:50px;
+    position:absolute;
+    top:980px;
+}
+.sandy2{
+    background-color: #cccbcb;
+    color:#F34043;
+    font-size:50px;
+    position:absolute;
+    left: 680px;
+    top:980px;
+}
+.wb{
+    background-color: #cccbcb;
+    color:#000000;
+    font-size:50px;
+    position:absolute;
+    left: 600px;
+    top:1038px;
+}
+.deve{
+    background-color: #cccbcb;
+    color:#F34043;
+    font-size:50px;
+    position:absolute;
+    left: 718px;
+    top:1038px;
+}
+.workpeople2{
+    border-radius: 15px;
+    position: relative;
+    top:-900px;
+    left:90px;
+    z-index: 2;
+}
+.box21{
+    height:200px;
+    width:200px;
+    border:5px solid white;
+    background-color:transparent;
+    position: absolute;
+    top:950px;
+    z-index: 3;
+}
+.box22{
+    height:200px;
+    width:200px;
+    background-color:#F34043;
+    position: absolute;
+    top:1080px;
+    left:50px;
+}
+.based{
+    background-color: #cccbcb;
+    color:#000000;
+    font-size:20px;
+    position:absolute;
+    left: 600px;
+    top:1115px;
+    font-weight: bolder;
+}
+.content{
+    background-color:#cccbcb ;
+    color:#5b5454;
+    width:354px;
+    position:absolute;
+    left:600px;
+    top:1170px;
+}
+.content2{
+    background-color:#cccbcb ;
+    color:#5b5454;
+    width:354px;
+    position:absolute;
+    left:600px;
+    top:1245px;
+}
+.CV{
+    background-color:#F34043;
+    height:50px;
+    width:190px;
+    border-radius: 8px;
+    position:absolute;
+    top:1350px;
+    left: 600px;
+}
+.fa-solid{
+    background-color: #F34043;
+}
+.workpeople{
+    border-radius: 15px;
+    height:375px;  
+    position:relative;
+    top:-400px;
+    left:700px;
+    z-index: 1;
+}
+.box23{
+    height:250px;
+    width:200px;
+    background-color: #F34043;
+    position:absolute;
+    top:1200px;
+    left:1250px;
+}
